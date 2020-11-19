@@ -1,0 +1,5 @@
+CorrelationId: f652b23d-14a3-4d67-95f9-368b1826b3fa
+UTC DateTime: 20/04/2020 20:49:18
+
+The following file/folder has not been downloaded
+1. app/build/intermediates/res/merged/debug
